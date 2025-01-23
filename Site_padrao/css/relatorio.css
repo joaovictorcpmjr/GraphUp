@@ -1,0 +1,35 @@
+body{
+    background-color: rgb(87, 87, 87);
+
+}
+.line{
+   color: white;
+}
+.cabecalho{
+    color: #1E1E1E;
+}
+
+.conteudo{
+    background-color: #303030;
+    margin-top: 1rem;
+    border-radius: 15px;
+    background-color: #303030;
+}
+
+.master{
+    font-size: 34px;
+    color: white;
+    font-family: 'Codec Pro', sans-serif;
+}
+.msub{
+    font-size: large;
+    color: white;
+    font-family: 'Codec Pro', sans-serif;
+}
+
+.titulo{
+    font-size: 20px;
+    color: white;
+    font-family: 'Codec Pro', sans-serif;
+
+}
